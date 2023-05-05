@@ -1,3 +1,8 @@
+# Arduino Temp Files
+*.h~
+*.c~
+*.ino~
+
 # Prerequisites
 *.d
 
